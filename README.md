@@ -1,4 +1,4 @@
-# Spring-Boot and Camel XML QuickStart
+# Spring-Boot and Camel XML QuickStart (for SISPI)
 
 This example demonstrates how to configure Camel routes in Spring Boot via a Spring XML configuration file.
 
